@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CENÁRIO 03 – EMPRESA DE SERVIÇOS TÉCNICOS", "CENÁRIO 03 – EMPRESA DE SERVIÇOS TÉCNICOS\CENÁRIO 03 – EMPRESA DE SERVIÇOS TÉCNICOS.csproj", "{61FDC607-2F5F-4B78-8D74-232ED734B1FA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CENÁRIO 03 – EMPRESA DE SERVIÇOS TÉCNICOS", "CENÁRIO 03 – EMPRESA DE SERVIÇOS TÉCNICOS.csproj", "{61FDC607-2F5F-4B78-8D74-232ED734B1FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

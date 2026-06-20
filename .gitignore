@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+project.assets.json
+
+# Logs and temporary files
+*.log
+*.tmp
+*.cache
+TestResults/
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
